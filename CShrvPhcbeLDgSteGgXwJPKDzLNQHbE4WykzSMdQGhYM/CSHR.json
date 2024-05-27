@@ -2,7 +2,7 @@
     "name": "Credit Shares",
     "symbol": "CSHR",
     "description": "TTCG Game Credit Shares.",
-    "image": "https://www.charizard.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.43b8b375.png&w=96&q=75",
+    "image": "",
     "attributes": [
       {
         "trait_type": "Item",
