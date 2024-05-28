@@ -2,7 +2,7 @@
     "name": "Credit Shares",
     "symbol": "CSHR",
     "description": "TTCG Game Credit Shares.",
-    "image": "",
+    "image": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d646576656c6f706572732f6f706f732d61737365742f6d61696e2f6173736574732f446576656c6f706572506f7274616c2f696d6167652e706e67",
     "attributes": [
       {
         "trait_type": "Item",
