@@ -1,0 +1,1 @@
+import{g as n,h as t,r as i}from"./solana-wallets-vue.4Rnzfn79.js";function u(e){return n()?(t(e),!0):!1}typeof WorkerGlobalScope<"u"&&globalThis instanceof WorkerGlobalScope;function p(e,c){const o=i(void 0),r=e.subscribe({next:s=>o.value=s,error:void 0});return u(()=>{r.unsubscribe()}),o}export{p as u};
